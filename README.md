@@ -3,15 +3,15 @@
 
 ### About me
 
-- 🔭 I’m currently working on [Chat app](https://github.com/m-rejdych/Chat-App)
+- 🔭  I’m currently working on [Chat app](https://github.com/m-rejdych/Chat-App)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱  I’m currently learning **Typescript**
 
-- 💬 Ask me about **frontend**
+- 💬  Ask me about **frontend**
 
-- 📫 Feel free to reach me **rejdych.m.r@gmail.com**
+- 📫  Feel free to reach me **rejdych.m.r@gmail.com**
 
-- ⚡ Fun fact: ...
+- ⚡  Fun fact: Besides programming, my passion is sport. I am Polish Kickboxing Championchip's medalist.
 
 ---
 
