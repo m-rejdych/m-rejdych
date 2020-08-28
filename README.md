@@ -17,7 +17,7 @@
 
 ### Most used languages
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-rejdych" alt="m-rejdych" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-rejdych&hide=cofeescript" alt="m-rejdych" /></p>
 
 ### Github stats
   
