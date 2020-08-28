@@ -11,6 +11,8 @@
 
 - 📫 Feel free to reach me **rejdych.m.r@gmail.com**
 
+- ⚡ Fun fact: ...
+
 ---
 
 ### Languages and tools
