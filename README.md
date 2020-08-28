@@ -31,6 +31,8 @@
   
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-rejdych&show_icons=true&theme=dracula" alt="m-rejdych" /></p>
 
+---
+
 ### Activity
 
 <!--START_SECTION:activity-->
