@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michal</h1>
-<h3 align="center">Hungry for knowledge frontend developer from Poland</h3>
+<h4 align="center">Hungry for knowledge frontend developer from Poland</h3>
 
 ### About me
 
@@ -30,3 +30,7 @@
 ### Github stats
   
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-rejdych&show_icons=true&theme=dracula" alt="m-rejdych" /></p>
+
+### Activity
+
+<!--START_SECTION:activity-->
