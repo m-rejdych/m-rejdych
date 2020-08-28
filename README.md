@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michal</h1>
+<h1 align="center">Hi 👋, I'm Michał</h1>
 <h4 align="center">Hungry for knowledge frontend developer from Poland</h3>
 
 ### About me
