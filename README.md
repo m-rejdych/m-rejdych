@@ -36,9 +36,9 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//m-rejdych/Chat-App/pull/1) in [m-rejdych/Chat-App](https://github.com//m-rejdych/Chat-App)
-2. 💪 Opened PR [#1](https://github.com//m-rejdych/Chat-App/pull/1) in [m-rejdych/Chat-App](https://github.com//m-rejdych/Chat-App)
-3. 🎉 Merged PR [#6](https://github.com//m-rejdych/Self-Board/pull/6) in [m-rejdych/Self-Board](https://github.com//m-rejdych/Self-Board)
-4. 💪 Opened PR [#6](https://github.com//m-rejdych/Self-Board/pull/6) in [m-rejdych/Self-Board](https://github.com//m-rejdych/Self-Board)
-5. 🎉 Merged PR [#5](https://github.com//m-rejdych/Self-Board/pull/5) in [m-rejdych/Self-Board](https://github.com//m-rejdych/Self-Board)
+1. 🎉 Merged PR [#2](https://github.com//m-rejdych/Chat-App/pull/2) in [m-rejdych/Chat-App](https://github.com//m-rejdych/Chat-App)
+2. 💪 Opened PR [#2](https://github.com//m-rejdych/Chat-App/pull/2) in [m-rejdych/Chat-App](https://github.com//m-rejdych/Chat-App)
+3. 🎉 Merged PR [#1](https://github.com//m-rejdych/Chat-App/pull/1) in [m-rejdych/Chat-App](https://github.com//m-rejdych/Chat-App)
+4. 💪 Opened PR [#1](https://github.com//m-rejdych/Chat-App/pull/1) in [m-rejdych/Chat-App](https://github.com//m-rejdych/Chat-App)
+5. 🎉 Merged PR [#6](https://github.com//m-rejdych/Self-Board/pull/6) in [m-rejdych/Self-Board](https://github.com//m-rejdych/Self-Board)
 <!--END_SECTION:activity-->
