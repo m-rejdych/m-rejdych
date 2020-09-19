@@ -3,7 +3,7 @@
 
 ### About me
 
-- 🔭  I’m currently working on [Chat app](https://github.com/m-rejdych/Chat-App)
+- 🔭  I’m currently working on [Social App](https://github.com/m-rejdych/Social-App)
 
 - 🌱  I’m currently learning **Typescript**
 
