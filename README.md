@@ -23,7 +23,7 @@
 
 ### Most used languages
 
-
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-rejdych&hide=coffeescript" alt="m-rejdych" /></p>
 
 ---
 
