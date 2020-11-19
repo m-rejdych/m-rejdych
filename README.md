@@ -5,7 +5,7 @@
 
 - 🔭  I’m currently working on [Social App](https://github.com/m-rejdych/Social-App)
 
-- 🌱  I’m currently learning **Node.js**
+- 🌱  I’m currently learning **Node.js** and **GraphQL**
 
 - 💬  Ask me about **frontend**
 
