@@ -31,15 +31,3 @@
 ### Github stats
   
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-rejdych&show_icons=true&theme=dracula" alt="m-rejdych" /></p>
-
----
-
-### Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/m-rejdych/Chat-App/pull/2) in [m-rejdych/Chat-App](https://github.com/m-rejdych/Chat-App)
-2. 💪 Opened PR [#2](https://github.com/m-rejdych/Chat-App/pull/2) in [m-rejdych/Chat-App](https://github.com/m-rejdych/Chat-App)
-3. 🎉 Merged PR [#1](https://github.com/m-rejdych/Chat-App/pull/1) in [m-rejdych/Chat-App](https://github.com/m-rejdych/Chat-App)
-4. 💪 Opened PR [#1](https://github.com/m-rejdych/Chat-App/pull/1) in [m-rejdych/Chat-App](https://github.com/m-rejdych/Chat-App)
-5. 🎉 Merged PR [#6](https://github.com/m-rejdych/Self-Board/pull/6) in [m-rejdych/Self-Board](https://github.com/m-rejdych/Self-Board)
-<!--END_SECTION:activity-->
