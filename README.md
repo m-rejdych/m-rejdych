@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🔭  I’m currently working on [Socialize](https://github.com/m-rejdych/Socialize)
+- 🔭  I’m currently working on [Socialize v2](https://github.com/m-rejdych/socialize_v2)
 
 - 🌱  I’m currently learning **Node.js** and **GraphQL**
 
