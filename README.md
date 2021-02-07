@@ -4,7 +4,7 @@
 
 - 🔭  I’m currently working on [Socialize v2](https://github.com/m-rejdych/socialize_v2)
 
-- 🌱  I’m currently learning **Node.js** and **GraphQL**
+- 🌱  I’m currently learning **Nest.js**
 
 - 💬  Ask me about **frontend**
 
