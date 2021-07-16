@@ -4,9 +4,9 @@
 
 - 🔭  I’m currently working on [Socialize v2](https://github.com/m-rejdych/socialize_v2)
 
-- 🌱  I’m currently learning **Nest.js**
+- 🌱  I’m currently learning **Next.js**
 
-- 💬  Ask me about **frontend**
+- 💬  Ask me about **web**
 
 - 📫  Feel free to reach me **rejdych.m.r@gmail.com**
 
