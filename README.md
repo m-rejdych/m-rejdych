@@ -2,11 +2,9 @@
 
 ### About me
 
-- 🔭  I’m currently working on [Socialize v2](https://github.com/m-rejdych/socialize_v2)
+- 🔭  I’m currently working on [Manage-It](https://github.com/m-rejdych/manage-it)
 
-- 🌱  I’m currently learning **Next.js**
-
-- 💬  Ask me about **web**
+- 🌱  I’m currently learning **three.js**
 
 - 📫  Feel free to reach me **rejdych.m.r@gmail.com**
 
