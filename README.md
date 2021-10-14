@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 
-### About me
+### 💁‍♂️ About me
 
 - 🔭  I’m currently working on [Manage IT](https://github.com/m-rejdych/manage-it)
 
@@ -12,7 +12,7 @@
 
 ---
 
-### 🔗  Links
+### 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-rejdych/)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrejdych7)
@@ -25,6 +25,6 @@
 
 ---
 
-### Github stats
+### 📈 Github stats
   
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-rejdych&show_icons=true&theme=dracula" alt="m-rejdych" /></p>
