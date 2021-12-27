@@ -4,7 +4,7 @@
 
 - 🔭  I’m currently working on [Manage IT](https://github.com/m-rejdych/manage-it)
 
-- 🌱  I’m currently learning **three.js**
+- 🌱  I’m currently learning **Flutter**
 
 - 📫  Feel free to reach me **rejdych.m.r@gmail.com**
 
