@@ -2,7 +2,7 @@
 
 ### 💁‍♂️ About me
 
-- 🔭  I’m currently working on [Manage IT](https://github.com/m-rejdych/manage-it)
+- 🔭  I’m currently working on [Messages App](https://github.com/m-rejdych/messages-app)
 
 - 🌱  I’m currently learning **Rust**
 
