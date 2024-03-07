@@ -2,7 +2,7 @@
 
 ### 💁‍♂️ About me
 
-- 🔭  I’m currently working on [AI Assistant](https://github.com/m-rejdych/ai-assistant)
+- 🔭  I’m currently working on [AI Image Generator](https://github.com/m-rejdych/ai-image-generator)
 
 - 🌱  I’m currently learning **Rust**
 
