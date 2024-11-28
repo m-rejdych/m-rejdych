@@ -2,13 +2,13 @@
 
 ### 💁‍♂️ About me
 
-- 🔭  I’m currently working on [AI Image Generator](https://github.com/m-rejdych/ai-image-generator)
+- 🔭  I’m currently working on [Cortex](https://github.com/m-rejdych/cortex)
 
-- 🌱  I’m currently learning **Rust**
+- 🌱  I’m currently learning **Rust, AI**
 
 - 📫  Feel free to reach me **rejdych.m.r@gmail.com**
 
-- ⚡  Fun fact: Besides programming, my passion is sport. I am Polish Kickboxing Championchip's medalist.
+- ⚡  Fun fact: Besides programming, my passion is sport. I am a Polish Kickboxing Championchip's medalist.
 
 ---
 
